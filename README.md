@@ -1,8 +1,2 @@
 # HangMan
-The popular game HangMan is developed using Python.
-Skills Developed in Project-:
-
-0) Getting Warmed up in Python
-1) Python Web Scraping
-2) Python String Manipulation
-3) Getting Started with Github
+The popular game HangMan is developed using Python. The objective of this project was to get familiar with string manipulation in Python as well as do some introductory web scraping
